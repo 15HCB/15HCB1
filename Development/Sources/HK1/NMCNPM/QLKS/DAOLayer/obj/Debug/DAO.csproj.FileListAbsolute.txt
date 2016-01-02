@@ -1,0 +1,7 @@
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\bin\Debug\DAOLayer.dll
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\bin\Debug\DAOLayer.pdb
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\bin\Debug\DTOLayer.dll
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\obj\Debug\DAOLayer.dll
+C:\Users\Kid\Desktop\cnpm\KhachSan\DAOLayer\obj\Debug\DAOLayer.pdb

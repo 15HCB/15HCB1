@@ -1,0 +1,6 @@
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\bin\Debug\DTOLayer.dll.config
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\bin\Debug\DTOLayer.dll
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\obj\Debug\DTOLayer.dll
+C:\Users\Kid\Desktop\cnpm\KhachSan\DTOLayer\obj\Debug\DTOLayer.pdb
